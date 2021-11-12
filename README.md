@@ -35,18 +35,18 @@ To use the app, click on the website link above, signup and start posting, comme
 
 #### Screenshots
 
-Homepage
+*Homepage*
 
-![cc-java-api-2021 herokuapp com_](https://user-images.githubusercontent.com/83710803/141526993-0c403a51-af63-4e77-a1fe-9223936ae919.png
+![cc-java-api-2021 herokuapp com_](https://user-images.githubusercontent.com/83710803/141526993-0c403a51-af63-4e77-a1fe-9223936ae919.png)
 
-Dashboard
+*Dashboard*
 
 ![cc-java-api-2021 herokuapp com_dashboard](https://user-images.githubusercontent.com/83710803/141526999-f6891a40-a703-4efb-ac1c-94f6c5d75f43.png)
 
-Single-Post
+*Single-Post*
 
 ![cc-java-api-2021 herokuapp com_post_3](https://user-images.githubusercontent.com/83710803/141527009-5c7dc366-5a7d-4aea-8d5c-c5b66650987b.png)
-)
+
 
 ## Credits
 
